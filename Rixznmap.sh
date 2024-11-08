@@ -24,7 +24,7 @@ echo -e $red'''
 echo -e $white "                NMAP TOOLS BY YOUNGTA09 AND RIXZ08"
 echo -e "   $green ========================================================"
 echo -e "   $green ||      Code By : Rixz08 And Youngta09                ||"
-echo -e "   $green ||      Github  : https://github.com/RixzPloit08      ||"
+echo -e "   $green ||      Github  : https://github.com/RixzPloit      ||"
 echo -e "   $green ||      Github  : https://github.com/Youngta09        ||"
 echo -e "   $green ||        Date  : `date`        ||"
 echo -e "   $green ========================================================"
